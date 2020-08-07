@@ -1,7 +1,9 @@
 ## Hi there, I am Neelkamal 👋
 
 I am an undergraduate CS student. I am open to learn new things and collaborate on innovative ideas 👯!
-You can reach me through my [email](mailto:neelkamal.17u131@viit.ac.in)
+You can reach me through
+* [Email 📧](mailto:neelkamal.17u131@viit.ac.in)
+* [LinkedIn 📮](https://www.linkedin.com/in/neelkamal-bharati-702147157/)
 
 ----------------
 ## My past experiences 🔭
