@@ -1,7 +1,7 @@
 ## Hi there, I am Neelkamal 👋
 
 I am an undergraduate Computer Engineering student. I am always geared up to tackle new problems and learn from them in every possible way.
-Currently I work as a *Software Intern at NVIDIA.*
+Currently I work as a **Software Intern at NVIDIA.**
  You can reach me through
 * [Email 📧](mailto:neelkamal.17u131@viit.ac.in)
 * [LinkedIn 📮](https://www.linkedin.com/in/neelkamal-bharati-702147157/)
