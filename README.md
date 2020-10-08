@@ -12,8 +12,8 @@ Currently I work as a *Software Intern at NVIDIA.*
 |  Qualification  | Year   | Institution | Grade |
 |:------------:|:---------------:|:-----:|:----:|
 | B.Tech            | 2017-2021 (Expected) | VIIT, Pune (Affilitated to Pune University) | ***9.83***/10|
-| HSC (12th)  | 2015        | Dr. Ambedkar College, Nagpur| ***85.69***/100|
-| SSC (10th)    | 2017       |  St. Lawrence High School, Aurangabad | ***93.20***/100|
+| HSC (12th)  | 2017        | Dr. Ambedkar College, Nagpur| ***85.69***/100|
+| SSC (10th)    | 2015       |  St. Lawrence High School, Aurangabad | ***93.20***/100|
 
 ----------------
 ## My past experiences 🔭
