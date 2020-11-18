@@ -1,4 +1,4 @@
-Incase you prefer reading a PDF resume, take a look [here](https://jobs.lever.co/zeta/b061af61-16bf-4205-b65d-bb77d5732963).
+Incase you prefer reading a PDF resume, take a look [here](https://github.com/neelkamalsb/neelkamalsb/blob/master/2021-neelkamal-bharati.pdf).
 
 ## Hi there, I am Neelkamal 👋
 
