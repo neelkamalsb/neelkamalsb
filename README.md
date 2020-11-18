@@ -1,3 +1,5 @@
+Incase you prefer reading a PDF resume, take a look [here](https://jobs.lever.co/zeta/b061af61-16bf-4205-b65d-bb77d5732963).
+
 ## Hi there, I am Neelkamal 👋
 
 I am an undergraduate Computer Engineering student. I am always geared up to tackle new problems and learn from them in every possible way.
